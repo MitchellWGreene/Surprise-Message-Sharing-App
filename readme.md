@@ -7,3 +7,6 @@
 
 
 Captains log 4/16, I'm practicing how to properly do version control, and that is all this line is for. Thanks 
+
+
+Testing git config email settings, to make sure my commits are recorded in activity.
