@@ -12,3 +12,5 @@ Captains log 4/16, I'm practicing how to properly do version control, and that i
 Testing git config email settings, to make sure my commits are recorded in activity.
 
 it worked, n i c e.
+
+triple check
