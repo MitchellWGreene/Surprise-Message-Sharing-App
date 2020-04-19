@@ -14,3 +14,5 @@ Testing git config email settings, to make sure my commits are recorded in activ
 it worked, n i c e.
 
 triple check
+
+Laptop check
